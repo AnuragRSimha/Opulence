@@ -8,7 +8,8 @@ At restaurants, it's quite a squander of time awaiting the advent of a waiter to
 
 ### The Idea
 1. There would be devices mounted onto the tables in a restaurant with Opulence installed. The customers can directly take to placing an order with that device.
-2. After placing the order, the table number, name, and the selected dishes/drinks would be sent to the kitchen where everything is prepared.
+2. In the kitchen, there would be another device to display the captured details from the customer's end.
+3. After placing the order, the table number, name, and the selected dishes/drinks would be sent to the kitchen where everything is prepared.
 
 Although there are similar inventions in the market today, Opulence provides a secure communication between devices within restaurant premises, and keeps all data secure.
 
