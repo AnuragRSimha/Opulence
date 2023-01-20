@@ -20,7 +20,7 @@ In the symbol, the royal crown placed atop each lion symbolises Anglo (United Ki
 Details on how to configure and use the application are provided with this repository in the 'Documentation' folder.
 
 ## Details
-Architecture: Model View Controller (MVC)
-Design Pattern: Facade
-Framework: Spring
-GUI: Swing
+Architecture: Model View Controller (MVC)\
+Design Pattern: Facade\
+Framework: Spring\
+GUI: Swing\
