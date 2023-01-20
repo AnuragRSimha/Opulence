@@ -1,0 +1,43 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+   <bean id = "configureHome" class = "opulence.homepage.homepage_C">
+        <constructor-arg index = "0" ref = "hpM" />
+        <constructor-arg index = "1" ref = "hpV" />
+   </bean>
+   <bean id = "hpM" class = "opulence.homepage.homepage_M">
+         <property name = "image" value = "d:\Users\Anurag\Documents\My Java Programs\RestaurantFoodOrder\homepage.png" />
+   </bean>
+   <bean id = "hpV" class = "opulence.homepage.homepage_V" />
+
+   <bean id = "configureadminHome" class = "opulence.adminpage.adminpage_C">
+        <constructor-arg index = "0" ref = "apM" />
+        <constructor-arg index = "1" ref = "apV" />
+   </bean>
+   <bean id = "apM" class = "opulence.adminpage.adminpage_M">
+         <property name = "image" value = "d:\Users\Anurag\Documents\My Java Programs\RestaurantFoodOrder\adminpage.png" />
+   </bean>
+   <bean id = "apV" class = "opulence.adminpage.adminpage_V" />
+
+   <bean id = "configurewelcome" class = "opulence.welcomepage.welcomepage_C">
+        <constructor-arg index = "0" ref = "wpM" />
+        <constructor-arg index = "1" ref = "wpV" />
+   </bean>
+   <bean id = "wpM" class = "opulence.welcomepage.welcomepage_M">
+         <property name = "image" value = "d:\Users\Anurag\Documents\My Java Programs\RestaurantFoodOrder\welcomepage.png" />
+   </bean>
+   <bean id = "wpV" class = "opulence.welcomepage.welcomepage_V" />
+
+   <bean id = "configureOrder" class = "opulence.orderpage.orderpage_C">
+        <constructor-arg index = "0" ref = "opM" />
+        <constructor-arg index = "1" ref = "opV" />
+   </bean>
+   <bean id = "opM" class = "opulence.orderpage.orderpage_M">
+         <property name = "image" value = "d:\Users\Anurag\Documents\My Java Programs\RestaurantFoodOrder\orderpage.png" />
+   </bean>
+   <bean id = "opV" class = "opulence.orderpage.orderpage_V" />
+   
+</beans>
