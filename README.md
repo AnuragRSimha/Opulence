@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/53004679/213638171-dee90348-3f99-4cf3-89a0-485813a611e1.jpg)
+![logo](https://user-images.githubusercontent.com/53004679/213641067-6cc99343-154a-4db0-9907-e7d4ab9ad4d1.jpg)
 # Opulence: An Anglo-Carnatic Product
 ## What is Opulence?
 Opulence, which in simple English means prosperity, is a simple Java-based application made employing the spring framework supoorted with a GUI built using swing.
