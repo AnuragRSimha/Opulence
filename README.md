@@ -7,7 +7,7 @@ Opulence, which in simple English means prosperity, is a simple Java-based appli
 At restaurants, it's quite a squander of time awaiting the advent of a waiter to one's table and place an order. Opulence is designed to address this purpose.
 
 ### The Idea
-1. There would be devices mounted onto the tables in a restaurant with Opulence installed. The customers can directly take to placing an order with that device.\
+1. There would be devices mounted onto the tables in a restaurant with Opulence installed. The customers can directly take to placing an order with that device.
 2. After placing the order, the table number, name, and the selected dishes/drinks would be sent to the kitchen where everything is prepared.
 
 Although there are similar inventions in the market today, Opulence provides a secure communication between devices within restaurant premises, and keeps all data secure.
