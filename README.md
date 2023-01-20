@@ -23,4 +23,4 @@ Details on how to configure and use the application are provided with this repos
 Architecture: Model View Controller (MVC)\
 Design Pattern: Facade\
 Framework: Spring\
-GUI: Swing\
+GUI: Swing
