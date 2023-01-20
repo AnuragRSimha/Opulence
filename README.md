@@ -4,7 +4,7 @@
 Opulence, which in simple English means prosperity, is a simple Java-based application made employing the spring framework supoorted with a GUI built using swing.
 
 ## Why Opulence?
-At restaurants, it's quite a squander of time awaiting the advent of a waiter to one's table and place an order. Opulence is designed to address this purpose.
+Imagine an idyllic restaurant ornamented in 19th Century Victorian fashion. You heartfully want to dine at this place, but you are bound to wait the advent of a waiter to your table. It's quite a squander of time awaiting his advent and place an order. Opulence is designed to address this purpose.
 
 ### The Idea
 1. There would be devices mounted onto the tables in a restaurant with Opulence installed. The customers can directly take to placing an order with that device.
