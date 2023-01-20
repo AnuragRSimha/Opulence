@@ -8,6 +8,6 @@ public class dbConnect {
         return DriverManager.getConnection(
                 "jdbc:mysql://localhost:3306/opulence",
                 "root",
-                "Anurag12");
+                "password");
     }
 }
