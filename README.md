@@ -17,7 +17,7 @@ Although there are similar inventions in the market today, Opulence provides a s
 In the symbol, the royal crown placed atop each lion symbolises Anglo (United Kingdom). The Gandabherunda upon the crest signifies Carnatic. The sword, the boar, the moon, and the sun also imply Carnatic. Furthermore, they are the elements of the Vijayanagara Empire, an utterly wealthy kingdom from Karnataka, South India. All in all, they collectively signify opulence. Henceforth, Opulence: An Anglo-Carnatic Product.
 
 ## Configuration and Usage
-Details on how to configure and use the application are provided with this repository in the 'Documentation' folder.
+Details on how to configure and use the application are provided with this repository in the 'Documentation' directory.
 
 ## Details
 Architecture: Model View Controller (MVC)\
