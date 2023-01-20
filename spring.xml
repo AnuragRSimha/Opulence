@@ -9,7 +9,7 @@
         <constructor-arg index = "1" ref = "hpV" />
    </bean>
    <bean id = "hpM" class = "opulence.homepage.homepage_M">
-         <property name = "image" value = "d:\Users\Anurag\Documents\My Java Programs\RestaurantFoodOrder\homepage.png" />
+         <property name = "image" value = "c:\Opulence Exterior Directory\homepage.png" />
    </bean>
    <bean id = "hpV" class = "opulence.homepage.homepage_V" />
 
@@ -18,7 +18,7 @@
         <constructor-arg index = "1" ref = "apV" />
    </bean>
    <bean id = "apM" class = "opulence.adminpage.adminpage_M">
-         <property name = "image" value = "d:\Users\Anurag\Documents\My Java Programs\RestaurantFoodOrder\adminpage.png" />
+         <property name = "image" value = "c:\Opulence Exterior Directory\adminpage.png" />
    </bean>
    <bean id = "apV" class = "opulence.adminpage.adminpage_V" />
 
@@ -27,7 +27,7 @@
         <constructor-arg index = "1" ref = "wpV" />
    </bean>
    <bean id = "wpM" class = "opulence.welcomepage.welcomepage_M">
-         <property name = "image" value = "d:\Users\Anurag\Documents\My Java Programs\RestaurantFoodOrder\welcomepage.png" />
+         <property name = "image" value = "c:\Opulence Exterior Directory\welcomepage.png" />
    </bean>
    <bean id = "wpV" class = "opulence.welcomepage.welcomepage_V" />
 
@@ -36,7 +36,7 @@
         <constructor-arg index = "1" ref = "opV" />
    </bean>
    <bean id = "opM" class = "opulence.orderpage.orderpage_M">
-         <property name = "image" value = "d:\Users\Anurag\Documents\My Java Programs\RestaurantFoodOrder\orderpage.png" />
+         <property name = "image" value = "c:\Opulence Exterior Directory\orderpage.png" />
    </bean>
    <bean id = "opV" class = "opulence.orderpage.orderpage_V" />
    
